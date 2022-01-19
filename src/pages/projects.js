@@ -1,0 +1,25 @@
+// Step 1: Import React
+import * as React from 'react'
+// import { Link } from 'gatsby'
+import Layout from '../components/layout'
+
+
+
+// Step 2: Define your component
+const Projects = () => {
+  return (
+    <main>
+      <title>Projects</title>
+      {/* <Link to="/">Back to Home</Link> */}
+
+      <Layout pageTitle="Projects">
+      <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
+    </Layout>
+
+     
+    </main>
+  )
+}
+
+// Step 3: Export your component
+export default Projects
