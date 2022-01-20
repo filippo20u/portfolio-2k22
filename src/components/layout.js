@@ -9,6 +9,9 @@ import {
   navLinkText
 } from './layout.module.css'
 
+
+import "@fontsource/open-sans" // Defaults to weight 400 with all styles included.
+
 const Layout = ({ pageTitle, children }) => {
   return (
     <div className={container}>

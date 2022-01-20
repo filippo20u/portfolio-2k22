@@ -1,5 +1,7 @@
+
 .main {
     background-color: yellow;
+
 
 }
 
@@ -26,5 +28,26 @@
     color: rgb(131, 41, 41);
     font-size: medium;
   }
+  
+   
+
+    body {
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: georgia, serif;
+      font-weight: normal;
+      word-wrap: break-word;
+      font-kerning: normal;
+      background-color: rgb(15, 15, 15);
+    }
+  
+
+    .projects-box {
+      border-color: rgb(23, 0, 128);
+      border-width: 10px;
+      border-style: solid;
+      border-radius: 10px;
+      border-radius: 50%;
+      background-color: green;
+    }
 
 

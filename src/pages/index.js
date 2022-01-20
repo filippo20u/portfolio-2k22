@@ -44,11 +44,9 @@ const IndexPage = () => {
           </p>
 
         
-        <div>
-        <StaticImage
-        alt="Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
-        src="../images/beutehome.jpeg"/>
 
+        <div class='projects-box'>
+        
         <h2>Treasure Hunt updated</h2>
         <p>My first JavaScript/HTML project, a classic to remember the good old days</p>
         <p><a class="btn btn-secondary" href="#" role="button">GitHub Repo</a></p>

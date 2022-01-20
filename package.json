@@ -15,11 +15,17 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@fontsource/open-sans": "^4.5.2",
     "gatsby": "^4.5.3",
     "gatsby-plugin-image": "^2.5.2",
     "gatsby-plugin-sharp": "^4.5.2",
+    "gatsby-plugin-typography": "^4.5.0",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-filesystem": "^4.5.2",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-typography": "^0.16.20",
+    "typography": "^0.16.21",
+    "typography-theme-lincoln": "^0.16.19"
   }
 }
